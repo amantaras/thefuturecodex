@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/5ac6e632-ea53-4815-bd58-cc26b3a9935f)# The Future Codex
 
-![image](https://github.com/user-attachments/assets/9957130a-def6-4df2-a5e9-99adf2531a28)
+
 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
