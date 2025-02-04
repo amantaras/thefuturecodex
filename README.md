@@ -1,7 +1,13 @@
-# The Future Codex
+![image](https://github.com/user-attachments/assets/5ac6e632-ea53-4815-bd58-cc26b3a9935f)# The Future Codex
+
+![image](https://github.com/user-attachments/assets/9957130a-def6-4df2-a5e9-99adf2531a28)
+
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-*A thought-leadership newsletter covering Microsoft’s research papers, patents, and forward-looking visions of AI’s role*
+*A thought-leadership newsletter covering 
+AI Technology, and forward-looking 
+visions of AI’s role *
 
 Welcome to **The Future Codex** repository – a curated resource hub designed to complement our LinkedIn newsletter. Here, you'll find code samples, tutorials, and projects that explore the latest innovations in AI, with a strong focus on Microsoft and OpenAI technologies.
 
